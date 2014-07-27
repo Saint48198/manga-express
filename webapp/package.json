@@ -1,0 +1,14 @@
+{
+  "name": "manga-express-webapp",
+  "author": "Scott Daniels",
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "should": "^4.0.4"
+  }
+}
